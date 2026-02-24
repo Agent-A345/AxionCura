@@ -10,7 +10,7 @@ An AI-powered stroke risk prediction system built using Python and Machine Learn
 5. **Prediction System** – Accepts patient input and outputs stroke risk prediction.
 
 ## 📂 Project Structure
-QuizApplication/  
+AxionCura/  
 ├── app.py  
 ├── main.py  
 ├── stroke_pipeline.joblib  
